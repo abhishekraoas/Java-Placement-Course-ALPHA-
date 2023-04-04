@@ -2,7 +2,6 @@
 I am Learning Java + DSA from Apna College and I am Sharing My Practice Code On GitHub. Anyone can read and understand the Code. I will share the all topic one by one
 
 <h2>😎😎😎😎😎ALL TOPICS COVERED😎😎😎😎</h2>
-<h2>😎😎😎😎😎ALL TOPICS COVERED😎😎😎😎</h2>
 <ul>
     <li><h5>Flowcharts</h5></li>
     <li><h5>Variables & Data Types in Java</h5></li>
